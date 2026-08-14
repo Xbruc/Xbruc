@@ -1,13 +1,31 @@
-Olá! Sou Wesley Lima.
+# Olá! Eu sou Wesley Lima 👋
 
-Sou oceanógrafo e desenvolvedor back-end, com interesse em meio ambiente, tecnologia e criação de soluções voltadas à compreensão e à análise de sistemas ambientais.
+🌊 Oceanógrafo e Desenvolvedor Back-end | Python | Geoprocessamento | Modelagem Ambiental
 
-Minhas principais áreas de atuação incluem:
+Sou profissional com atuação multidisciplinar nas áreas de tecnologia, meio ambiente e ciências oceânicas, com interesse no desenvolvimento de soluções computacionais aplicadas à análise e compreensão de sistemas ambientais.
 
-Desenvolvimento web back-end, com ênfase em Python, Streamlit e FastAPI;
-Desenvolvimento de aplicações desktop em Python, utilizando PySide;
-Gestão de equipes e produtos de tecnologia, com atuação como Product Owner;
-Modelagem numérica de sistemas costeiros e estuarinos, com foco no sistema TELEMAC-MASCARET;
-Análise, processamento e visualização de dados geoespaciais.
+## 🚀 Áreas de atuação
 
-Busco integrar conhecimentos em oceanografia, modelagem ambiental e desenvolvimento de software para transformar dados complexos em soluções úteis, acessíveis e aplicáveis à tomada de decisão.
+- Desenvolvimento Back-end com Python
+- APIs com FastAPI
+- Aplicações com Streamlit
+- Desenvolvimento de softwares com PySide
+- Modelagem hidrodinâmica com TELEMAC-MASCARET
+- Geoprocessamento e análise de dados geoespaciais
+- Processamento de dados meteorológicos e oceanográficos
+
+## 🛠️ Tecnologias
+
+Python | FastAPI | Streamlit | PySide | Git | GitHub | QGIS | Google Earth Engine | TELEMAC-MASCARET
+
+## 📌 Projetos em destaque
+
+- 🌊 STFM Viewer — visualização e análise de simulações oceanográficas
+- 🌦️ SMB Processor — processamento de dados meteorológicos e oceanográficos
+- 🗺️ Projetos de geoprocessamento e análise ambiental
+- 💻 Aplicações web e APIs desenvolvidas em Python
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/wesley-lima-026353218/
+- E-mail: wesxlima@gmail.com
