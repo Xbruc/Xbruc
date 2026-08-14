@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá! Sou Wesley Lima.
 
-<!--
-**Xbruc/Xbruc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou oceanógrafo e desenvolvedor back-end, com interesse em meio ambiente, tecnologia e criação de soluções voltadas à compreensão e à análise de sistemas ambientais.
 
-Here are some ideas to get you started:
+Minhas principais áreas de atuação incluem:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvimento web back-end, com ênfase em Python, Streamlit e FastAPI;
+Desenvolvimento de aplicações desktop em Python, utilizando PySide;
+Gestão de equipes e produtos de tecnologia, com atuação como Product Owner;
+Modelagem numérica de sistemas costeiros e estuarinos, com foco no sistema TELEMAC-MASCARET;
+Análise, processamento e visualização de dados geoespaciais.
+
+Busco integrar conhecimentos em oceanografia, modelagem ambiental e desenvolvimento de software para transformar dados complexos em soluções úteis, acessíveis e aplicáveis à tomada de decisão.
